@@ -1,0 +1,23 @@
+.title{
+    font-size: 20px;
+}
+.img{
+    background: url('./images/il_570xN.1120523464_ngse.jpg') no-repeat center;
+    background-size: contain;
+    width: 300px;
+    height: 100px;
+}
+.title_red{
+    color: red;
+}
+.title_blue{
+    color: blue;
+}
+.title_yellow{
+    color: yellow;
+}
+div{
+    padding: 5px;
+    text-align: center;
+    text-emphasis-color: crimson;
+}
